@@ -1,0 +1,10 @@
+Authority:  CC_Insignia
+Creation:   05/04/2018 00:26:09 (by ATUNERO-PC\Atunero)
+
+== PRIVATE KEY ==
+File: C:\Users\Pc-Com\Desktop\CC_Insignia.biprivatekey
+MD5: 589DA5AC881275C06BA99A7E894D918E
+== PUBLIC KEY ==
+File: C:\Users\Pc-Com\Desktop\CC_Insignia.bikey
+MD5: 532725E12F2F0B1B0CFEBC6ADB4B6C3C
+
